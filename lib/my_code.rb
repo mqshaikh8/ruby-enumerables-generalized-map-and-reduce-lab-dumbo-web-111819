@@ -1,6 +1,6 @@
 def map (array)
-  new = []
+  update = []
   i =0
-  
+  while i < array.length
     
 end
